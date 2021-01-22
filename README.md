@@ -4,7 +4,7 @@
 </h1>
 
 ## Objetivo
-Curso Javascript da Rocketseat que apresenta suas funcionalidades básicas.
+Conteúdo e exercícios resolvidos do curso introdutório de Javascript da Rocketseat que apresenta suas funcionalidades básicas.
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - HTML5
